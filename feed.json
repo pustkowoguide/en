@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pustkowo Guide",
+    "description": "",
+    "home_page_url": "https://pustkowo.org/en",
+    "feed_url": "https://pustkowo.org/en/feed.json",
+    "user_comment": "",
+    "icon": "https://pustkowo.org/en/media/website/pustkowo_logo_lichen_bottom.svg",
+    "author": {
+        "name": "Ka 𓂓"
+    },
+    "items": [
+    ]
+}
