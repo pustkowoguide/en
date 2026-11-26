@@ -118,15 +118,7 @@
 </url>
 <url>
 <loc>https://pustkowo.org/en/beneath-the-surface.html</loc>
-<lastmod>2026-11-23T11:33:37+01:00</lastmod>
-<image:image>
-<image:loc>https://pustkowo.org/en/media/posts/29/bts_postcards.jpg</image:loc>
-<image:title><![CDATA[Old postcard of the beach at Pustkowo with sailing boats]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://pustkowo.org/en/media/posts/29/bts_untold_stories_2.jpg</image:loc>
-<image:title><![CDATA[Detail of an old map of the Pomeranian coast]]></image:title>
-</image:image>
+<lastmod>2026-11-26T14:27:19+01:00</lastmod>
 </url>
 <url>
 <loc>https://pustkowo.org/en/by-bike-around-pustkowo-stories-written-into-the-landscape.html</loc>
@@ -167,10 +159,6 @@
 <image:loc>https://pustkowo.org/en/media/posts/28/pk-band.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://pustkowo.org/en/history-through-postcards.html</loc>
-<lastmod>2026-11-17T11:43:50+01:00</lastmod>
 </url>
 <url>
 <loc>https://pustkowo.org/en/how-to-read-pustkowo.html</loc>
@@ -357,10 +345,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://pustkowo.org/en/untold-stories.html</loc>
-<lastmod>2026-11-19T01:03:50+01:00</lastmod>
-</url>
-<url>
 <loc>https://pustkowo.org/en/western-route.html</loc>
 <lastmod>2026-11-23T11:33:18+01:00</lastmod>
 <image:image>
@@ -398,6 +382,26 @@
 <image:image>
 <image:loc>https://pustkowo.org/en/media/posts/16/quiz-owl.jpg</image:loc>
 <image:title><![CDATA[Tawny owls, hand-coloured plate by John Gould]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pustkowo.org/en/what-the-postcards-left-out.html</loc>
+<lastmod>2026-11-26T14:23:23+01:00</lastmod>
+<image:image>
+<image:loc>https://pustkowo.org/en/media/posts/32/pustchow-hauptstrasse-viewpoints-map-1938-2.jpg</image:loc>
+<image:title><![CDATA[1938 map of Pustchow with the three postcard viewpoints marked]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pustkowo.org/en/media/posts/32/pustchow-hauptstrasse-from-west-c1925-2.jpg</image:loc>
+<image:title><![CDATA[Postcard of Hauptstraße in Pustchow around 1925, a sandy road lined with birches]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pustkowo.org/en/media/posts/32/pustchow-hauptstrasse-dorf-idyll-c1933.jpg</image:loc>
+<image:title><![CDATA[Postcard Dorf-Idyll, around 1933, three people walking down a sandy village street]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pustkowo.org/en/media/posts/32/pustchow-hauptstrasse-from-east-1938.jpg</image:loc>
+<image:title><![CDATA[Postcard of Hauptstraße in Pustchow, 1938, with the village sign, flagpoles and an empty inn garden]]></image:title>
 </image:image>
 </url>
 </urlset>
